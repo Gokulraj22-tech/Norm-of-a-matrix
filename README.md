@@ -42,7 +42,7 @@ print(InfinityNorm)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4c49770-0557-471d-bcde-813581b09f57" />
 
 
-## Infinity Norm of a Matrix
+## 3-Infinity Norm of a Matrix
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03bcf39c-8359-4a1c-b630-45184f27a3d0" />
 
 # Result:
